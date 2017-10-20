@@ -1,0 +1,15 @@
+{
+  "name": "react-native-apex-wh-wechat",
+  "version": "1.0.0",
+  "description": "集成微信SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.1.75/Util/react-native-apex-wh-wechat.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
